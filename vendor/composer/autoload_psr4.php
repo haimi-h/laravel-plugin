@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Arif\\Arifpay\\' => array($baseDir . '/src'),
+    'Arifplugin\\Arifpay\\' => array($baseDir . '/src'),
 );

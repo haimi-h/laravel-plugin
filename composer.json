@@ -1,9 +1,9 @@
 {
-    "name": "arif/arifpay",
+    "name": "arifplugin/arifpay",
     "description": "arifpay laravel plugin",
     "autoload": {
         "psr-4": {
-            "Arif\\Arifpay\\": "src/"
+            "Arifplugin\\Arifpay\\": "src/"
         }
     },
     "authors": [
